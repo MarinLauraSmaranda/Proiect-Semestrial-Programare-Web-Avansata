@@ -1,0 +1,59 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "marielu",
+            "password": "password1",
+            "active": 1
+        },
+        {
+            "id": 2,
+            "username": "marialu",
+            "password": "password2",
+            "active": 1
+        }
+    ],
+
+    "todos": [
+        {
+            "id": 1,
+            "id_user": 1,
+            "task": "Buy groceries",
+            "completed": 0
+        },
+        {
+            "id": 2,
+            "id_user": 1,
+            "task": "Wash the car",
+            "completed": 0
+        },
+        {
+            "id": 3,
+            "id_user": 2,
+            "task": "Pay the bills",
+            "completed": 0
+        }
+    ],
+
+    "events": [
+        {
+            "id": 1,
+            "id_user": 1,
+            "event": "Meeting",
+            "completed": 0
+        },
+        {
+            "id": 2,
+            "id_user": 1,
+            "event": "Concert",
+            "completed": 0
+        },
+        {
+            "id": 3,
+            "id_user": 2,
+            "event": "Reunion 10 years",
+            "completed": 0
+        }
+    ]
+}
+

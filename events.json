@@ -1,0 +1,21 @@
+{"events": [
+    {
+        "id": 1,
+        "id_user": 1,
+        "event": "Meeting",
+        "completed": 0
+    },
+    {
+        "id": 2,
+        "id_user": 1,
+        "task": "Concert",
+        "completed": 0
+    },
+    {
+        "id": 3,
+        "id_user": 2,
+        "task": "Reunion 10 years",
+        "completed": 0
+    }
+]
+}
