@@ -4,7 +4,7 @@ require_once 'C:\xampp\htdocs\SEMINAR\proiectpwa\mysql.php';
 session_start();
 
 if(!isset($_SESSION['id_user'])) {
-    header('Location: login.php');
+    header('Location: homepage.php');
     exit;
 }
 
